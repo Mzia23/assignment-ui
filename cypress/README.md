@@ -1,3 +1,8 @@
+Get Started:
+- Clone the project from https://github.com/Mzia23/assignment-ui.git
+- Make sure to install project dependencies by:
+  npm install
+
 Test Scenarios:
 The following test scenarios are included in this Cypress project:
 
